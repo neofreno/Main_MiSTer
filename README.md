@@ -4,16 +4,16 @@ It forces twice the horizontal frequency to be able to view the Mister cores at 
 Two options are added in the MiSTer.ini settings: 
 
 <ul>
-    <li>forced_dvrate_crt=3</li>
+    <li>forced_dvrate_crt</li>
         <ol type="1">
             <li>only double v.rate</li>
             <li>set v.rate to 30khz if double v.rate < 29khz</li>
-            <li>double width to show menu if width < 282 and v.rate < 29khz</li>
+            <li><strong>double width to show menu if width < 282 and v.rate < 29khz</strong></li>
             <li>double width to show menu if width < 282 and v.rate < 28.5khz</li>
         </ol>
-    <li>forced_dvrate_cfg=1</li>
+    <li>forced_dvrate_cfg</li>
         <ol type="1">
-            <li>set to 1 ro force settings (Aspect Ratio= full screen, scandoubler FX=None)</li>
+            <li><strong>set to 1 ro force settings (Aspect Ratio= full screen, scandoubler FX=None)</strong></li>
         </ol>
 </ul>
 
