@@ -2,6 +2,7 @@
 It forces twice the horizontal frequency to be able to view the Mister cores at native resolution on a CRT monitor > 100hz.
 
 ![Image text](https://user-images.githubusercontent.com/35410501/150386302-2a2bd068-da60-48a0-89a1-4b70b9a3d9cc.jpg)
+![Image text](https://github.com/neofreno/Main_MiSTer/blob/master/camphoto_1254324197.jpg)
 
 Two options are added in the MiSTer.ini settings: 
 
