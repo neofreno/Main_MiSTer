@@ -30,11 +30,11 @@
 #include <assert.h>
 
 
-#include <zlib.h>
+#include "miniz.h"
 
-#include "file_io.h"
-#include "user_io.h"
-#include "menu.h"
+#include "../../file_io.h"
+#include "../../user_io.h"
+#include "../../menu.h"
 
 #define UEF_ChunkHeaderSize (sizeof(uint16_t) + sizeof(uint32_t))
 #define UEF_infoID      0x0000
